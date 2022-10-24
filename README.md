@@ -10,3 +10,5 @@
     $ python3 main.py metadata.txt $output
     ```
     - Where output should be a .png, or .jpg file
+- Result
+![Alt text](result.png?raw=true "Title")
